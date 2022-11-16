@@ -29,7 +29,7 @@ module.exports = {
         body:['Poppins']
       },
       screens: {
-        'xxs': '200px', // min-width
+        'xxs': '350px', // min-width
       },
     },
   },
